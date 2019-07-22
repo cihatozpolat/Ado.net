@@ -1,0 +1,11 @@
+C:\Users\cozpolat\Deneme123\bin\Debug\netcoreapp2.2\Deneme123.deps.json
+C:\Users\cozpolat\Deneme123\bin\Debug\netcoreapp2.2\Deneme123.runtimeconfig.json
+C:\Users\cozpolat\Deneme123\bin\Debug\netcoreapp2.2\Deneme123.runtimeconfig.dev.json
+C:\Users\cozpolat\Deneme123\bin\Debug\netcoreapp2.2\Deneme123.dll
+C:\Users\cozpolat\Deneme123\bin\Debug\netcoreapp2.2\Deneme123.pdb
+C:\Users\cozpolat\Deneme123\obj\Debug\netcoreapp2.2\Deneme123.csprojAssemblyReference.cache
+C:\Users\cozpolat\Deneme123\obj\Debug\netcoreapp2.2\Deneme123.csproj.CoreCompileInputs.cache
+C:\Users\cozpolat\Deneme123\obj\Debug\netcoreapp2.2\Deneme123.AssemblyInfoInputs.cache
+C:\Users\cozpolat\Deneme123\obj\Debug\netcoreapp2.2\Deneme123.AssemblyInfo.cs
+C:\Users\cozpolat\Deneme123\obj\Debug\netcoreapp2.2\Deneme123.dll
+C:\Users\cozpolat\Deneme123\obj\Debug\netcoreapp2.2\Deneme123.pdb
